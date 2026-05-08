@@ -6,6 +6,10 @@
 >
 > 完整对比网站：https://www.coding-plan.xyz
 
+## 📢 最新动态
+
+**5 月 8 日** — 火山方舟推出 Agent Plan，超全模态模型 × Harness 升级，开启 Agent 全新体验
+
 ## 目录
 
 - [Coding Plan（编程套餐）](#coding-plan编程套餐)
