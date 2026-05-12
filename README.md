@@ -8,7 +8,13 @@
 
 ## 📢 最新动态
 
-**5 月 12 日** — 腾讯云推出 Hy Token Plan，搭载 Hy3 Preview 模型，限时优惠
+**🔥 速抢 GitCode 限量免费 Coding Plan** — 需下载 AtomCode 领取，[前往领取](https://ai.gitcode.com/serverless-api)
+
+**5 月 11 日** — 优云智算上线新 Agent Plan 套餐
+
+**5 月 10 日** — 百度千帆新增 GLM-5.1 和 DeepSeek V4 Flash 模型；阿里云百炼 Token Plan 增加模型：GLM-5.1、Kimi-K2.6、Qwen3.6-Flash
+
+**新增功能** — 速度测试页面正式上线，支持按模型和厂商对比 TTFT、TPS、成功率等关键指标
 
 ---
 
