@@ -2,11 +2,15 @@
 
 本仓库收集整理了中国各大厂商提供的 AI 编程套餐（Coding Plan）和 Token 套餐（Token Plan）信息，方便开发者对比选择。
 
-> 数据更新日期：2026年5月12日
+> 数据更新日期：2026年5月22日
 >
 > 完整对比网站：https://www.coding-plan.xyz
 
 ## 📢 最新动态
+
+**5 月 21 日** — 无问芯穹停止向个人用户提供服务，包括 Coding Plan，已购买用户可使用到 6 月 26 日
+
+**OpenCode Go 推荐链接更新** — 通过推荐链接注册可送 $5，[前往 OpenCode](https://opencode.ai/go?ref=GWM08015AT)
 
 **🔥 速抢 GitCode 限量免费 Coding Plan** — 需下载 AtomCode 领取，[前往领取](https://ai.gitcode.com/serverless-api)
 
@@ -126,12 +130,12 @@ Coding Plan 通常以"请求次数"为计量单位，适合高频调用场景。
 
 ---
 
-### 无问芯穹
+### 无问芯穹（停售）
 
 | 套餐 | 价格 | 额度 | 支持模型 | 备注 |
 |------|------|------|----------|------|
-| Lite | ¥40/月 | 1,000次/5小时，6,000次/周，12,000次/月 | DeepSeek-V3.2, DeepSeek-V3.2-Thinking, Kimi-K2.5, MiniMax-M2.1, MiniMax-M2.5, MiniMax-M2.7, GLM-4.7, GLM-5, GLM-5.1 | |
-| Pro | ¥200/月 | 5,000次/5小时，30,000次/周，60,000次/月 | DeepSeek-V3.2, DeepSeek-V3.2-Thinking, Kimi-K2.5, MiniMax-M2.1, MiniMax-M2.5, MiniMax-M2.7, GLM-4.7, GLM-5, GLM-5.1 | |
+| Lite | ¥40/月 | 停售 | DeepSeek-V3.2, DeepSeek-V3.2-Thinking, Kimi-K2.5, MiniMax-M2.1, MiniMax-M2.5, MiniMax-M2.7, GLM-4.7, GLM-5, GLM-5.1 | 停止向个人用户提供服务，已购买用户可使用到 2026 年 6 月 26 日 |
+| Pro | ¥200/月 | 停售 | DeepSeek-V3.2, DeepSeek-V3.2-Thinking, Kimi-K2.5, MiniMax-M2.1, MiniMax-M2.5, MiniMax-M2.7, GLM-4.7, GLM-5, GLM-5.1 | 停止向个人用户提供服务，已购买用户可使用到 2026 年 6 月 26 日 |
 
 🔗 [官方链接](https://cloud.infini-ai.com/platform/ai)
 
@@ -201,9 +205,9 @@ Coding Plan 通常以"请求次数"为计量单位，适合高频调用场景。
 
 | 套餐 | 价格 | 额度 | 支持模型 | 备注 |
 |------|------|------|----------|------|
-| Go | $10/月（首月$5） | $12/5小时, $30/周, $60/月 | GLM-5, GLM-5.1, Kimi-K2.5, Kimi-K2.6, MiMo-V2-Pro, MiMo-V2-Omni, MiMo-V2.5-Pro, MiMo-V2.5, MiniMax-M2.5, MiniMax-M2.7, Qwen3.5 Plus, Qwen3.6 Plus, DeepSeek V4 Pro, DeepSeek V4 Flash | |
+| Go | $10/月（首月$5） | $12/5小时, $30/周, $60/月 | GLM-5, GLM-5.1, Kimi-K2.5, Kimi-K2.6, MiMo-V2-Pro, MiMo-V2-Omni, MiMo-V2.5-Pro, MiMo-V2.5, MiniMax-M2.5, MiniMax-M2.7, Qwen3.5 Plus, Qwen3.6 Plus, DeepSeek V4 Pro, DeepSeek V4 Flash | 推荐链接送 $5 |
 
-🔗 [官方链接](https://opencode.ai/zh/go)
+🔗 [官方链接](https://opencode.ai/go?ref=GWM08015AT)
 
 ---
 
